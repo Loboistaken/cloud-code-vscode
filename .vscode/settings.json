@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "flexwie"
+    ],
+    "cSpell.enableFiletypes": [
+        "bat"
+    ],
+    "yaml.schemas": {
+        "https://gitlab.com/appsemble/appsemble/-/raw/HEAD/packages/cli/assets/appsemblerc.schema.json": "file:///c%3A/Users/bjorn/Downloads/EnableAWSConfig.yml"
+    }
+}
